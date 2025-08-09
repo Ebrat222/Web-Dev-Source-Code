@@ -13,3 +13,5 @@ Website List
 W3School : https://www.w3schools.com/js/
 
 Mdn : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Other's : https://www.javascripttutorial.net/
