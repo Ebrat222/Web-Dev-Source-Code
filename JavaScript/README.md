@@ -15,3 +15,7 @@ W3School : https://www.w3schools.com/js/
 Mdn : https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 Other's : https://www.javascripttutorial.net/
+
+https://www.tutorialspoint.com/javascript/index.htm
+
+https://www.geeksforgeeks.org/javascript/javascript-tutorial/
